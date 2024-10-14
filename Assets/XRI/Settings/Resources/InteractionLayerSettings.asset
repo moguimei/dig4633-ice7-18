@@ -14,9 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LayerNames:
   - Default
+  - Books
+  - Red Book
+  - Blue Book
   - 
-  - 
-  - 
+  - Yellow&Blue
+  - Green
   - 
   - 
   - 
